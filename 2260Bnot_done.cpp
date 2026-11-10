@@ -76,7 +76,8 @@ bool chmin(T &a, const T &b) {
 */
 
 void solve() {
-
+    ll x, y, k; cin >> x >> y >> k;
+    
 }
 
 int main() {
